@@ -7,4 +7,4 @@
 
 
 
-  [2]: https://github.com/hertzi418/Blog/blob/master/resources/WeChat-SPA.md
+  [2]: https://github.com/hertzi418/wechat/blob/master/resources/WeChat-SPA.md
